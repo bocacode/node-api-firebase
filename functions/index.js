@@ -20,6 +20,8 @@ app.delete('/delete-one', (req, res) => {
 
 exports.api = functions.https.onRequest(app);
 
+// We did it
+
 
 
 
